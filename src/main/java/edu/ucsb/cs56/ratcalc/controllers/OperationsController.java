@@ -159,6 +159,6 @@ public class OperationsController {
 
 
         model.addAttribute("ratCalcForm", ratCalcForm);
-        return "operations/";
+        return "operations/divide";
     }
 }
